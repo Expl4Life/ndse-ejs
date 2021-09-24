@@ -1,2 +1,6 @@
 # ndse-ejs
-ejs+express+nodejs
+
+
+### Запуск
+* npm i
+* npm run dev
